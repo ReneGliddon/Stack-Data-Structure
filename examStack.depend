@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1635548599 source:c:\users\samsung\desktop\code\examstack\main.cpp
+	<iostream>
+	"linkedStackType.h"
+	"stackType.h"
+	<string>
+
+1635371954 c:\users\samsung\desktop\code\examstack\linkedstacktype.h
+	"stackADT.h"
+	<iostream>
+	<cassert>
+	<stack>
+
+1635371983 c:\users\samsung\desktop\code\examstack\stackadt.h
+
+1635535587 c:\users\samsung\desktop\code\examstack\stacktype.h
+	<iostream>
+	<cassert>
+	"stackADT.h"
+
